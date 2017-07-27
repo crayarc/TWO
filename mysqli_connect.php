@@ -8,7 +8,7 @@
 DEFINE ('DB_USER', 'root');
 DEFINE ('DB_PASSWORD', 'C0c0nutb1scu1ts');
 DEFINE ('DB_HOST', 'localhost');
-DEFINE ('DB_NAME', 'pray4my_mydb');
+DEFINE ('DB_NAME', 'TWO');
 
 // Make the connection:
 $dbc = @mysqli_connect (DB_HOST, DB_USER, DB_PASSWORD, DB_NAME) OR die ('Could not connect to MySQL: ' . mysqli_connect_error() );

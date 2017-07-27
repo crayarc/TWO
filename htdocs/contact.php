@@ -1,7 +1,7 @@
 
 <?php
 $page_title = 'Welcome to this Site!';
-include 'header.html';
+include ('includes/header.html');
 ?>
 
 
@@ -14,5 +14,5 @@ include 'header.html';
 </div>
 
 <?php
-	include 'footer.html';
+	include ('includes/footer.html');
 	?>

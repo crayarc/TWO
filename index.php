@@ -1,10 +1,11 @@
 
 <?php
 $page_title = 'Welcome to this Site!';
-include ('includes/header.html');
+include ('htdocs/includes/header.html');
 ?>
 
+hi
 
 <?php
-	include 'includes/footer.html';
+	include ('htdocs/includes/footer.html');
 	?>
