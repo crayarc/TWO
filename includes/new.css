@@ -1,0 +1,30 @@
+div.main {
+    width: 600px;
+    padding: 25px;
+    margin: 30px;
+    box-shadow: -10px 0px 50px 10px rgba(0,0,0,0.19);
+
+}
+div h1.title{
+  font-weight: bold;
+}
+div p.link{
+  text-decoration: underline;
+}
+div.main a{
+  text-decoration: underline;
+}
+div hr{
+box-sizing:content-box;
+height:1px;
+overflow:visible;
+}
+div p.date{
+  font-size: 18px;
+}
+h1{
+  padding-bottom: 10px;
+}
+div.inner-container{
+padding-bottom: 10px;
+}

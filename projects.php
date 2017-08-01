@@ -3,11 +3,11 @@
 $page_title = 'Welcome to this Site!';
 include ('includes/header.html');
 ?>
-
-  <h1>Projects</h1>
+<div class = "main">
+  <h1 class = "title">Projects</h1>
 <p>Web Development</p>
 <p>Database</p>
-</body>
+</div>
 
 
 <?php
