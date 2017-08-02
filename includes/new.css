@@ -1,30 +1,50 @@
 div.main {
-    width: 600px;
     padding: 25px;
     margin: 30px;
     box-shadow: -10px 0px 50px 10px rgba(0,0,0,0.19);
-
+}
+div.main a{
+  text-decoration: underline;
+}
+h1{
+  padding-bottom: 10px;
+  color:#52527a;
 }
 div h1.title{
   font-weight: bold;
+
+}
+div h3{
+  color:#52527a;
+}
+div p{
+  font-weight: 400px;
 }
 div p.link{
   text-decoration: underline;
 }
-div.main a{
-  text-decoration: underline;
+div p.date{
+  font-size: 18px;
+  color:#4d94ff;
+}
+div p{
+  font-size: 16px;
 }
 div hr{
 box-sizing:content-box;
 height:1px;
 overflow:visible;
 }
-div p.date{
-  font-size: 18px;
-}
-h1{
-  padding-bottom: 10px;
-}
 div.inner-container{
 padding-bottom: 10px;
+}
+i{
+  color:#4d94ff;
+}
+span.current {
+  color:white;
+  width:200px;
+  height:100px;
+  background:#4d94ff;
+  background-size
 }
