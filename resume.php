@@ -6,21 +6,21 @@ include ('includes/header.html');
 <div class = "main">
 
 <div class="subc">
-    <h1><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge"></i>Education</h1>
+    <h1 class ="title"><!--<i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge"></i>-->Skills</h1>
 <div class="inner-container">
-    <h3 class = "name">University of Houston</h3>
-    <p class="date"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Fall 2016 - <span class="current">Current</span></p>
-    <p class="this">Bachelor of Science in Computer Information Systems</p>
-  </div>
-  <hr>
-  <div class="inner-container">
-    <h3>Lone Star College</h3>
-    <p class="date"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2012 - 2014</p>
-    <p>Associates of Science</p>
-    <br>
-  </div>
+      <p>Languages:C++, CSS, HTML, JavaScript, mySQL, PHP</p>
+      <p>Programs: Filezilla, Github, Kleopatra, VMware </p>
+      <p>OS: Mac, Ubuntu, Windows</p>
 </div>
 </div>
+
+<!--
+
+<h2><i class="fa fa-asterisk fa-fw w3-margin-right w3-xxlarge"></i>Skills</h2>
+<div class="inner-container">
+    <p>Languages:C++, CSS, HTML, JavaScript, mySQL, PHP</p>
+    <p>Programs: Filezilla, Github, Kleopatra, VMware </p>
+    <p>OS: Mac, Ubuntu, Windows</p>
 
 <div class="main">
 <div class="subc">
@@ -33,6 +33,7 @@ include ('includes/header.html');
 				<p>Side work to help the restaurant properly function</p>
 </div>
 <hr>
+
 <div class="inner-container">
     <h3>Guest Services Representative / Houston Astros</h3>
     <p class="date"><i class="fa fa-calendar fa-fw w3-margin-right"></i>May 2015 - Aug 2016</p>
@@ -66,7 +67,9 @@ include ('includes/header.html');
 </div>
 </div>
 </div>
+-->
 
+</div>
 </div>
 
 <?php
